@@ -1,5 +1,7 @@
 # Love Maths
 
+![alt text](assets/images/image.png)
+
 Love Maths is a simple browser-based math game where players answer quick arithmetic questions and track their score. It is built with HTML, CSS, and vanilla JavaScript to practice core DOM manipulation and event handling.
 
 ## Live Demo
